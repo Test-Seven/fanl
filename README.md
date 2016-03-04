@@ -1,6 +1,7 @@
 # fanl
 ##范磊的作业
 1. iOS模拟网络情况
+
 ![1](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0447_1024.jpg)
 ![2](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0448_1024.jpg)
 ![3](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0449_1024.jpg)
