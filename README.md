@@ -11,6 +11,12 @@
 ![7](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0453_1024.jpg)
 
 2. 对任意app抓包
+
+![8](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/抓包-jd-test.tiff)
+
 3. 安装ssl证书
+
+![9](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/charles-ssl-crt.tiff)
+![10](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/JD-ssl.tiff)
 4. 打包
 
