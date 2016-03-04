@@ -8,7 +8,7 @@
 ![4](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0450_1024.jpg)
 ![5](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0451_1024.jpg)
 ![6](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0452_1024.jpg)
-![7](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0453_1024.jpg)
+![7](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/thumb_IMG_0454_1024.jpg)
 
 2. 对任意app抓包
 
