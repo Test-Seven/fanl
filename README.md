@@ -24,6 +24,8 @@
 4. 打包
 
 iOS编译打包debug app 路径
-![14](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/iOSdebugapp路径.tiff) 
+
+![14](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/iOSdebugapp路径.tiff)
+
 
 
