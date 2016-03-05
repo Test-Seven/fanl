@@ -21,16 +21,24 @@
 ![11](https://github.com/Test-Seven/fanl/blob/master/images/Screenshot_2016-03-04-22-13-33.png)
 ![12](https://github.com/Test-Seven/fanl/blob/master/images/Screenshot_2016-03-04-22-13-59.png)
 ![13](https://github.com/Test-Seven/fanl/blob/master/images/Screenshot_2016-03-04-23-30-01.png)
-4. 打包
+4. if有Mac的话，请去编译打包出任意一个iOS的debug的app，并给出debug app 的路径，else编译打包出任意一个android的debug的app，并给出android的key store的目录所在
 
 iOS编译打包debug app 路径
 
 ![14](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/iOSdebugapp路径.tiff)
 
-android编译打包debug app路径
+android编译打包debug app路径,keystore目录所在
 
-keystore目录所在
+![15](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/jks目录.tiff)
 
+##遇到的问题
+
+1. 在Mac下，使用android studio编译打包debug app ，key store path中只有.jks文件，与.keystore是否有区别
+
+
+2. 获取app所在域的ssl证书时，firefox中点击获取证书按钮，提示错误，如图所示，遂查看详情－导出文件：＊.dianping.com，修改成.crt文件，安装到手机后提示安装成功，无法抓到app的https
+
+![16](https://raw.githubusercontent.com/Test-Seven/fanl/master/images/获取证书报错.tiff)
 
 
 
