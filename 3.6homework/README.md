@@ -12,6 +12,15 @@
 aapt dump permissions xx.apk
 ![](http://i.imgur.com/moPSXVx.png)
 ##3、编写3种不同切入点的Android monkey的命令，并成功运行，同时说明切入点是什么；
+多点击多滑动
+shell monkey -p packagename —ignore-crashes —ignore-timeouts --pct-touch 50 --pct-motion 50 -s 1 -v 10000
+
+多应用切换
+shell monkey —ignore-crashes —ignore-timeouts -s 1 -v 10000
+
+多硬件操作
+shell monkey —ignore-crashes —ignore-timeouts --pct-syskeys 60 -s 1 -v 10000
+
 
 ##4、请找出Android monkey中motion和touch对应的源码里的方法，并找出monkey工具实现点击的最基础发方法是什么；
 ![](http://i.imgur.com/JgJoxuv.png)
